@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis, Data Visualization and Machine Learning
 - 🌱 I’m currently learning Data Science methodologies
 - 💞️ I’m looking to collaborate on building machine learning models
-- 📫 You can reach me through email: gks.relangi@gmail.com or can contact on : +1 4107103310.
+- 📫 You can reach me through email: gks.relangi@gmail.com.
 - 😄 Pronouns: He/Him/His
 - :mortar_board: Completed Bachelors of Engineering in Computer Science Engineering at Sathyabama University.
 
